@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Kyle</h1>
+<h1 align="center">Hello 👋, I'm Kyle</h1>
 <h3 align="center">A passionate full stack web developer from Seattle, WA</h3>
 
 - 🔭 I’m currently working on [Bill's PC](https://github.com/andrewskr90/bills-pc)
