@@ -1,7 +1,7 @@
 <h1 align="center">Hello 👋, I'm Kyle</h1>
 <h3 align="center">A passionate full stack web developer from Seattle, WA</h3>
 
-- 🔭 I’m currently working on [Bill's PC](https://github.com/andrewskr90/bills-pc)
+- 🔭 I’m currently working on [Bill's PC](https://github.com/andrewskr90/bills-pc-ubuntu)
 
 - 🌱 I’m currently learning **Ant Design and Figma**
 
