@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Bill's PC](https://github.com/andrewskr90/bills-pc-ubuntu)
 
-- 🌱 I’m currently learning **Ant Design and Figma**
+- 🌱 I’m currently learning **AWS and Docker**
 
 - 💬 Ask me about **React Redux or Node.js**
 
