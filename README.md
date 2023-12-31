@@ -1,9 +1,9 @@
 <h1 align="center">Hello 👋, I'm Kyle</h1>
 <h3 align="center">A passionate full stack web developer from Seattle, WA</h3>
 
-- 🔭 I’m currently working on [Bill's PC](https://github.com/andrewskr90/bills-pc-ubuntu)
+- 🔭 I’m currently working on converting a JS app to TypeScript and tailwind.css
 
-- 🌱 I’m currently learning **AWS and Docker**
+- 🌱 I’m currently learning **Golang**
 
 - 💬 Ask me about **React Redux or Node.js**
 
